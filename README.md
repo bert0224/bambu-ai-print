@@ -87,4 +87,8 @@ python -m unittest discover -s tests -p test_design_approval_gate.py -v
 
 仓库只包含技能说明、通用脚本、模板和合成测试，不包含用户照片、PCB 设计、STP/STL/3MF 工程、打印机凭据或个人环境配置。
 
-目前未指定许可证。参考资料和依赖各自的许可不随本仓库发布而改变。
+## 许可证
+
+本仓库原创代码、技能说明和模板采用 [MIT 许可证](LICENSE)，版权署名为 `Copyright (c) 2026 bert0224`。
+
+允许使用、修改、商用和分发，须保留版权与许可声明。标准条款以 LICENSE 原文为准。参考资料、第三方依赖和用户输入模型仍遵循各自许可，不因使用本 skill 而被重新授权。
