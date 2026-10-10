@@ -1,0 +1,4 @@
+# CAD 内核使用已验证的依赖组合；Matplotlib 用于独立进程预览。
+cadquery==2.7.0
+nlopt==2.9.1
+matplotlib>=3.8,<4

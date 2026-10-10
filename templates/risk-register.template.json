@@ -1,0 +1,47 @@
+{
+  "design_id": "待填写",
+  "risk_profiles": [],
+  "manufacturing_fingerprint": {
+    "status": "待填写",
+    "printer_model": "",
+    "nozzle_diameter_mm": 0,
+    "nozzle_material": "",
+    "filament": "",
+    "build_plate": "",
+    "slicer": "Bambu Studio",
+    "slicer_version": "",
+    "process_profile": ""
+  },
+  "coverage": {
+    "evidence_measurement": {"status": "待填写", "evidence": ""},
+    "object_envelope": {"status": "待填写", "evidence": ""},
+    "assembly_motion": {"status": "待填写", "evidence": ""},
+    "interfaces_keepouts": {"status": "待填写", "evidence": ""},
+    "loads_stability": {"status": "待填写", "evidence": ""},
+    "tolerance_fit": {"status": "待填写", "evidence": ""},
+    "fdm_process": {"status": "待填写", "evidence": ""},
+    "material_environment": {"status": "待填写", "evidence": ""},
+    "cad_export": {"status": "待填写", "evidence": ""},
+    "slicer_first_article": {"status": "待填写", "evidence": ""}
+  },
+  "risks": [
+    {
+      "id": "R-001",
+      "category": "待填写",
+      "phase": "pre_cad",
+      "severity": "待填写",
+      "status": "open",
+      "evidence_type": "planned_test",
+      "failure_mode": "待填写",
+      "cause": "待填写",
+      "mitigation": "待填写",
+      "verification": "待填写"
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "待填写",
+      "blocking": true
+    }
+  ]
+}

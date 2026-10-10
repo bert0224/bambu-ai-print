@@ -1,0 +1,18 @@
+# 本地运行环境和缓存
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# 用户输入、制造产物和本地记录不随技能发布
+outputs/
+work/
+*.3mf
+*.stl
+*.step
+*.stp
+*.pcb
+*.gcode
+*.log
